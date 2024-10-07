@@ -1,0 +1,5 @@
+Commande pour contruire l'image Docker : 
+docker build -t mon-projet .
+
+Commande pour éxecuter le conteneur Docker : 
+docker run -p 8080:8080 mon-projet
